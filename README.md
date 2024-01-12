@@ -5,7 +5,8 @@ Link para acessar o mapa: https://censo2022.ibge.gov.br/apps/pgi/#/mapa/?share=W
 
 *A depender de seu navegador de internet e suas configurações, pode ser necessário adicionar os sites abaixo como "confiáveis" no <b><i></i>Menu do navegador>Segurança e Privacidade>Conteúdo Não Seguro</b></i>: 
 
-https://censo2022.ibge.gov.br
-http://wfs.geosampa.prefeitura.sp.gov.br
+<p>https://censo2022.ibge.gov.br</p>
+http://wfs.geosampa.prefeitura.sp.gov.br</p>
 
-![image](https://github.com/gisa-ceinfo-sms-sp/plataforma-censo2022-ibge-limites-SMS-SP/assets/75272641/b02b1dc7-8fe6-4555-9ee4-15232d0136c6)
+<p>Aparência da tela exibida:</p>
+<p>![image](https://github.com/gisa-ceinfo-sms-sp/plataforma-censo2022-ibge-limites-SMS-SP/assets/75272641/b02b1dc7-8fe6-4555-9ee4-15232d0136c6)</p>
